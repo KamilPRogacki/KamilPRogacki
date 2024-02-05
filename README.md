@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python + Flask based project, more info soon**
 
-- 🌱 I’m currently learning **Flask, also constantly improving C/C++ skills**
+- 🌱 I’m currently learning **Flask, also constantly improving programming skills**
 
 - 📫 How to reach me **rogackikamil7@gmail.com**
 
