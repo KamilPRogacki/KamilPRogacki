@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h1 align="center">Hi, I'm Kamil</h1>
 
 
-- 🔭 I’m currently working on **Python + Flask based project, more info soon**
+- I’m currently working on **Python + Flask based project, more info soon**
 
-- 🌱 I’m currently learning **Flask, also constantly improving programming skills**
+- I’m currently learning **Flask, also constantly improving programming skills**
 
-- 📫 How to reach me **rogackikamil7@gmail.com**
+- How to reach me **rogackikamil7@gmail.com**
 
-- ⚡ Fun fact **If you are reading this during a cloudless night I'm probably watching stars with my telescope**
+- Fun fact **If you are reading this during a cloudless night I'm probably watching stars with my telescope**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilprogacki&label=Profile%20views&color=0e75b6&style=plastic" alt="kamilprogacki" /> </p>
 
