@@ -7,8 +7,6 @@
 
 - How to reach me **rogackikamil7@gmail.com**
 
-- Fun fact **If you are reading this during a cloudless night I'm probably watching stars with my telescope**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilprogacki&label=Profile%20views&color=0e75b6&style=plastic" alt="kamilprogacki" /> </p>
 
 
